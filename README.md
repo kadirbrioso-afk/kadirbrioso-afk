@@ -2,7 +2,7 @@
 ## Desarrollador Python 🐍
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/qb1eHxhUHLdsc/giphy.gif" width="60%" alt="Killua GIF" />
+  <img src="killua_comprimido.gif" width="60%" alt="Killua GIF" />
 </p>
 
 ### 👨‍💻 Un poco sobre mí
