@@ -1,7 +1,7 @@
 # ¡Hola! Soy Kadir 👋
 ## Desarrollador Python 🐍
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmsybnd6cmN5MDZpNXBlbDR6cXd6Y290YmNidnd0N3R3ZndpOHR6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmN8OYUiLIrC2vwG9A/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1b3RtcTJ6Z3A0d3F0amk5eG53NnY4ZDdrNmsyOHg0Znd2cmw0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VovpAsbshvDTTfX99O/giphy.gif)
 
 ### 👨‍💻 Un poco sobre mí
 Me enfoco principalmente en escribir scripts, automatizar tareas y construir aplicaciones utilizando **Python**. Me gusta mantener mis flujos de trabajo eficientes y limpios.
@@ -21,8 +21,10 @@ Me enfoco principalmente en escribir scripts, automatizar tareas y construir apl
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 🏆 Mis Logros en GitHub
 
-![Estadísticas de Kadir](https://github-readme-stats.vercel.app/api?username=kadirbrioso-afk&show_icons=true&theme=dracula&locale=es)
+Aquí tienes un sistema alternativo que dibuja trofeos en tiempo real con tu actividad:
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirbrioso-afk&layout=compact&theme=dracula&locale=es)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kadirbrioso-afk&theme=dracula&column=4" alt="Mis Trofeos" />
+</p>
