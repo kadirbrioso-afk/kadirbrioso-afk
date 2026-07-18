@@ -16,7 +16,11 @@ Me enfoco principalmente en escribir scripts, automatizar tareas y construir apl
 
 ### 🛠️ Tecnologías y Herramientas
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fedora](https://img.shields.io/badge/Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### Sistemas y Plataformas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### Lenguajes y Especialidades
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 🔹 **Especialidades en Python:**  
 ![Tkinter](https://img.shields.io/badge/Tkinter_/_GUI-3776AB?style=flat-square&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/Scripts_/_Automatización-4B275F?style=flat-square&logo=probot&logoColor=white)
@@ -25,4 +29,4 @@ Me enfoco principalmente en escribir scripts, automatizar tareas y construir apl
 
 ### 📂 Proyectos Destacados
 
-* 📥 **[YTDownloader_K](https://github.com/kadirbrioso-afk/YTDownloader_K)** - Aplicación de escritorio construida con Python y Tkinter.
+* 📥 **[YTDownloader_K](https://github.com/kadirbrioso-afk/YTDownloader_K)** - Aplicación de escritorio construida con Python y Tkinter para descargar videos de YouTube de forma sencilla y rápida.
